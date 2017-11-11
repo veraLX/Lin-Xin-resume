@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# 林昕
 
-You can use the [editor on GitHub](https://github.com/veraLX/Lin-Xin-resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+意向岗位：**前端工程师**
+- 联系方式：（+86）1306-722-3102
+- 电子邮箱：[734220574@qq.com](734220574@qq.com)
+- 出生年月：1996-09-14
+- 家庭住址：浙江省宁波市
+- 技术博客：[http://blog.csdn.net/qq_35411675](http://blog.csdn.net/qq_35411675)
+- 个人网站：[http://www.veralx.top](www.veralx.top)
+- Github：[https://github.com/veraLX](https://github.com/veraLX)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-------------------
+### 教育背景
+2014.09-2018.07—— 福州大学 (211工程•本科)——数字媒体技术
+>编程方向：面向对象程序设计、计算机网络与应用、数据库基础、网络编程、手机应用程序设计、互动技术等。
+>设计方向：美学基础、平面设计、设计图学、多媒体技术等。
+### 项目经历
+2017.08-2017.09 —— 麦果公司官网  ——实习作品
+- 运用了前端的CSS框架Bootstrap，使用rem布局和media query媒体查询做出PC端、iPad、移动端的响应式开发。 
+- 根据原型图制作网站并用animation.css，jQuery相关插件，Swiper，以及纯CSS设计相关遮罩、动画。
+- 添加百度地图API并实现“回到顶部”等交互功能。
 
-### Markdown
+2017.03-2017.04 —— Html5在线画板开发 ——课程设计
+- 此项目模仿Windows在线画图板制作了简单的网页版本的画图板的开发，主要功能有工具导航（画笔、橡皮、吸管、字体、放大镜）、形状选定、线宽更改、颜色替换等。
+- 主要运用Canvas标签下的一些基本填充、绘制属性和鼠标按下抬起的相关操作。 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2015.11-2016.01 —— DreamWeaver网站设计 ——课程设计
+- 网站设计主题为“旅行•去北京”，主要分为五大部分。主要使用设计视图的直观方式进行设计，运用了表格嵌套、层的嵌套、脚本连接等功能实现。 
+### 实习经历
+2017.08-2017.09 —— 宁波麦果网络科技有限公司  ——前端实习生
+- 负责公司的官网原型图还原。  
+- 同期学习了PHP和MySQL进行前后端交互案例，深入学习html、css、javascript、jQuery、git、Bootstrap相关知识应用。
+- 同期，熟悉 Apache, PHP,  Mysql 能搭建简单的后端项目，使用阿里云ECS服务器并备案域名配合XShell、Xftp、WordPress部署个人网站。
+### 个人技能
+- 应用html制作符合W3C标准的页面。使用浏览器条件注释（if IE）区分浏览器或使用CSS Hacks技术来达成兼容。
+- 熟悉标签语义，了解HTML5中对网页标签的语义强化，了解CSS3部分增强功能。理解结构、样式和行为的分离。有HTML5响应式开发经验，使用新Canvas标签制作画图板。
+- 对Javascript有一定了解。能使用jQuery框架实现一定的页面行为效果。
+- 熟悉PS、DW常用网页制作工具。
+- 良好的学习能力，喜欢对自己我不断完善，钻研问题，吸收各方面的知识。富有团队精神，能与团队组员充分配合，发挥团队优势。积极向上的责任心，对自身的工作能力有信心，且能够承受高强度的工作压力。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/veraLX/Lin-Xin-resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
